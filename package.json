@@ -28,7 +28,7 @@
     "semver": "^5.4.1",
     "semver-stable": "^2.0.4",
     "superagent": "^3.7.0",
-    "tarball-extract": "^0.0.6"
+    "tarball-extract-improve": "^0.0.9"
   },
   "devDependencies": {
     "JSV": "^4.0.2",
