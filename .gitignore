@@ -245,6 +245,11 @@ node_modules/
 /ajax/libs/numbered/0.0.4
 /ajax/libs/numbered/1.0.0
 /ajax/libs/jquery-bracket/release-*
+/ajax/libs/primer-markdown/*-alpha.*
+/ajax/libs/primer-markdown/*-themyscira.*
+/ajax/libs/primer-markdown/*-mono.*
+/ajax/libs/primer-markdown/*-monobeta.*
+/ajax/libs/primer-markdown/*-monotest.*
 
 #ignore snapshot tags
 /ajax/libs/*/*snapshot*
